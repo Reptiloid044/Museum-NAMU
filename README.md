@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing NAMU used: SCSS, HTML, BEM, JS.
+
+The landing is adaptive to different screen extensions, has a stylish design, contains a swiper with slides, burger menu, links, animations and a form to fill.
+- [DEMO LINK](https://Reptiloid044.github.io/Museum-NAMU/)
